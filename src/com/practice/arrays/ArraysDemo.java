@@ -1,5 +1,5 @@
 package com.practice.arrays;
-// Print two dimensional array
+// Print Two Dimensional Array
 public class ArraysDemo {
 	
 	public static void main(String[] args) {
