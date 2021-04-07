@@ -4,7 +4,7 @@ public class ArraysDemo {
 	
 	public static void main(String[] args) {
 		
-		/*
+		/*Declaration Creation Initialization of an Array
 		 * int[][] a;
 		 *  a = new int[3][];
 		 *   a[0]=new int[4]; 
@@ -22,7 +22,7 @@ public class ArraysDemo {
 		 * a[2][2]=90;
 		 */
 
-		
+		//Declaration Creation Initialization of an Array in a single Line
 	int[][] a = {{10,20,30,40},{50,60},{70,80,90}};
 		
 		//System.out.println(a.length);

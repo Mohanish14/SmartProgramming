@@ -3,7 +3,7 @@ package com.practice.arrays;
 public class Array {
 	public static void main(String[] args) {
 		
-		/*declaration creation initialization of an array 
+		/*Declaration Creation Initialization of an Array 
 		 * int[] a; 
 		 * a=new int[7];
 		 *  a[0]=10; 
@@ -15,7 +15,7 @@ public class Array {
 		 *  a[6]=50;
 		 */
 	
-		//declaration creation initialization of an array in a single line 
+		//Declaration Creation Initialization of an Array in a single Line	
 		int[] a = {10,50,40,3,0,40,50};
 		
 		for(int i=0;i<a.length;i++) {
